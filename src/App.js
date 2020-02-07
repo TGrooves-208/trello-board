@@ -17,7 +17,7 @@ const columnsFakeBackend = {
     items: itemsFakeBackend
   },
   [uuid()]: {
-    name: "Todo",
+    name: "To Do",
     items: []
   },
   [uuid()]: {
